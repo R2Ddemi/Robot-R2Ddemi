@@ -1,5 +1,4 @@
 # Robot-R2Ddemi
-Robot autonome sur Arduino avec calcul de trajectoire sur la base d'un capteur de distance Tf-Luna en guise de moyen de vision.
+Robot autonome avec microcontroleur Arduino MEGA 2560 avec calcul de trajectoire sur la base d'un capteur de distance Tf-Luna en guise de sustème de vision.
 
-Consultez  le blog https://arduino-self.over-blog.com/ pour avoir les détails
-Les composants, les explications sur le code source
+Consultez  le blog https://arduino-self.over-blog.com/ pour avoir les détails sur les composants, les explications sur le code source, les vidéos
